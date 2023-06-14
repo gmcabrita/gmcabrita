@@ -4,4 +4,4 @@
 
 - 🏢 Building things at [**Amplemarket**](https://amplemarket.com)
 - 🔧 Mostly using Ruby, Rails, JavaScript, React, HTML and CSS
-- 📫 [@gmcabrita](https://hachyderm.io/@gmcabrita)
+- 📫 [@gmcabrita](https:/twitter.com/@gmcabrita)
