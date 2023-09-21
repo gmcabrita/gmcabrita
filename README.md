@@ -4,4 +4,4 @@
 
 - 🏢 Building things at [**Amplemarket**](https://amplemarket.com)
 - 🔧 Mostly using Ruby, Rails, Redis, Postgres
-- 📫 [@gmcabrita](https:/x.com/gmcabrita)
+- 📫 [@gmcabrita](https://x.com/gmcabrita)
