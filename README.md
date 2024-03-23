@@ -1,4 +1,4 @@
-# Gonçalo Cabrita — @gmcabrita
+# Gonçalo Mendes Cabrita — @gmcabrita
 
 ### I'm a Lead Software Engineer based in Portugal.
 
